@@ -1,17 +1,17 @@
 <div>
-<a href="#" > <img src ="https://github.com/veronicaceo/veronicaceo/blob/main/image/capagif.gif" width="100%" height="auto" /></a>
+<a href="#" > <img src ="https://github.com/veronicamoraesbr/veronicamoraesbr/blob/main/image/capagif.gif" width="100%" height="auto" /></a>
 </div>
 
 ## Bem Vindo ao meu Github
 
-![Snake animation](https://github.com/veronicaceo/veronicaceo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/veronicamoraesbr/veronicamoraesbr/blob/output/github-contribution-grid-snake.svg)
 
 
 
 <div>
-<a href="https://github.com/veronicaceo"> 
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicaceo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronicaceo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/veronicamoraesbr"> 
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicamoraesbr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronicamoraesbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Skills

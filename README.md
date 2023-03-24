@@ -4,7 +4,7 @@
 
 <h2> Bem Vindo ao meu Github </h2>
 
-<p>Olá, Meu nome é Verônica Moraes, tenho 29 anos e estou em processo de transição de carreira. <br> Me formei no curso Tecnólogo de Logística em 2014 e após 9 anos de trabalho na área, resolvi migrar para o mercado digital. <br> Devido a demanda na criação de sites, e da utilização de wordpress e plugins com frequência, comecei a me interessar por programação e hoje estou estudando e trabalhando para transformar problemas reais em projetos simples e de fácil utilização para os usuários.
+<p>Olá, Meu nome é Verônica Moraes, tenho 30 anos e estou em processo de transição de carreira. <br> Me formei no curso Tecnólogo de Logística em 2014 e após 9 anos de trabalho na área, resolvi migrar para o mercado digital. <br> Devido a demanda na criação de sites, e da utilização de wordpress e plugins com frequência, comecei a me interessar por programação e hoje estou estudando e trabalhando para transformar problemas reais em projetos simples e de fácil utilização para os usuários.
 <!-- 
 Como forma de expor o meu trabalho e retribuir para a comunidade que também está em processo de aprendizado, compartilho meus projetos, desde o desenvolvimento até a apresentação final. 
 
